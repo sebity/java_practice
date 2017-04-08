@@ -76,5 +76,10 @@
             </FXCollections>
         </items>
     </ChoiceBox>
+    <Slider GridPane.rowIndex="2" GridPane.columnIndex="0" GridPane.columnSpan="4" min="0" max="100"
+        showTickLabels="true" showTickMarks="true" minorTickCount="4" snapToTicks="true"/>
+
+    <Spinner GridPane.rowIndex="2" GridPane.columnIndex="4" max="100" min="0" editable="true" initialValue="50"/>
+
 
 </GridPane>
