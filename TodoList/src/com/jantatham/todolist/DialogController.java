@@ -6,9 +6,7 @@ import javafx.fxml.FXML;
 import javafx.scene.control.DatePicker;
 import javafx.scene.control.TextArea;
 import javafx.scene.control.TextField;
-
 import java.time.LocalDate;
-
 
 /**
  * Created by jan on 11/04/17.
