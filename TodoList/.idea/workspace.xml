@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jantatham/todolist/Controller.java" afterPath="$PROJECT_DIR$/src/com/jantatham/todolist/Controller.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jantatham/todolist/datamodel/TodoData.java" afterPath="$PROJECT_DIR$/src/com/jantatham/todolist/datamodel/TodoData.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jantatham/todolist/datamodel/TodoItem.java" afterPath="$PROJECT_DIR$/src/com/jantatham/todolist/datamodel/TodoItem.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jantatham/todolist/mainWindow.fxml" afterPath="$PROJECT_DIR$/src/com/jantatham/todolist/mainWindow.fxml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/jantatham/todolist/todoItemDialog.fxml" afterPath="$PROJECT_DIR$/src/com/jantatham/todolist/todoItemDialog.fxml" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -77,14 +75,31 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Controller.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/jantatham/todolist/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1035">
+              <caret line="93" column="13" lean-forward="false" selection-start-line="93" selection-start-column="13" selection-end-line="93" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2510#3327#0" expanded="true" />
+                <element signature="e#3326#3327#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="TodoData.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jantatham/todolist/datamodel/TodoData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-818">
-              <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+            <state relative-caret-position="372">
+              <caret line="81" column="17" lean-forward="true" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#964#965#0" expanded="true" />
                 <element signature="e#999#1000#0" expanded="true" />
+                <element signature="e#2572#2573#0" expanded="true" />
+                <element signature="e#2610#2611#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -138,20 +153,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Controller.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jantatham/todolist/Controller.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="61" column="55" lean-forward="false" selection-start-line="61" selection-start-column="55" selection-end-line="61" selection-end-column="55" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1942#2759#0" expanded="true" />
-                <element signature="e#2758#2759#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -179,11 +180,11 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/jantatham/todolist/Main.java" />
         <option value="$PROJECT_DIR$/src/com/jantatham/todolist/DialogController.java" />
-        <option value="$PROJECT_DIR$/src/com/jantatham/todolist/datamodel/TodoData.java" />
         <option value="$PROJECT_DIR$/src/com/jantatham/todolist/todoItemDialog.fxml" />
         <option value="$PROJECT_DIR$/src/com/jantatham/todolist/mainWindow.fxml" />
         <option value="$PROJECT_DIR$/src/com/jantatham/todolist/datamodel/TodoItem.java" />
         <option value="$PROJECT_DIR$/TodoLitsItems.txt" />
+        <option value="$PROJECT_DIR$/src/com/jantatham/todolist/datamodel/TodoData.java" />
         <option value="$PROJECT_DIR$/src/com/jantatham/todolist/Controller.java" />
       </list>
     </option>
@@ -614,7 +615,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1890" height="1080" extended-state="4" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -625,7 +625,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -685,8 +685,11 @@
         <state relative-caret-position="782">
           <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#964#965#0" expanded="true" />
             <element signature="e#999#1000#0" expanded="true" />
+            <element signature="e#2572#2573#0" expanded="true" />
+            <element signature="e#2610#2611#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -737,8 +740,8 @@
           <caret line="49" column="49" lean-forward="false" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1942#2759#0" expanded="true" />
-            <element signature="e#2758#2759#0" expanded="true" />
+            <element signature="e#2510#3327#0" expanded="true" />
+            <element signature="e#3326#3327#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -758,8 +761,11 @@
         <state relative-caret-position="782">
           <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#964#965#0" expanded="true" />
             <element signature="e#999#1000#0" expanded="true" />
+            <element signature="e#2572#2573#0" expanded="true" />
+            <element signature="e#2610#2611#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -810,8 +816,8 @@
           <caret line="49" column="49" lean-forward="true" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1942#2759#0" expanded="true" />
-            <element signature="e#2758#2759#0" expanded="true" />
+            <element signature="e#2510#3327#0" expanded="true" />
+            <element signature="e#3326#3327#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -832,8 +838,8 @@
           <caret line="46" column="21" lean-forward="true" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1942#2759#0" expanded="true" />
-            <element signature="e#2758#2759#0" expanded="true" />
+            <element signature="e#2510#3327#0" expanded="true" />
+            <element signature="e#3326#3327#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -843,8 +849,11 @@
         <state relative-caret-position="918">
           <caret line="73" column="35" lean-forward="true" selection-start-line="73" selection-start-column="35" selection-end-line="73" selection-end-column="35" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#964#965#0" expanded="true" />
             <element signature="e#999#1000#0" expanded="true" />
+            <element signature="e#2572#2573#0" expanded="true" />
+            <element signature="e#2610#2611#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -895,8 +904,8 @@
           <caret line="49" column="27" lean-forward="true" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1942#2759#0" expanded="true" />
-            <element signature="e#2758#2759#0" expanded="true" />
+            <element signature="e#2510#3327#0" expanded="true" />
+            <element signature="e#3326#3327#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -928,8 +937,8 @@
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1942#2759#0" expanded="true" />
-            <element signature="e#2758#2759#0" expanded="true" />
+            <element signature="e#2510#3327#0" expanded="true" />
+            <element signature="e#3326#3327#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -976,17 +985,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jantatham/todolist/datamodel/TodoData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-818">
-          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-          <folding>
-            <element signature="e#964#965#0" expanded="true" />
-            <element signature="e#999#1000#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jantatham/todolist/datamodel/TodoItem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
@@ -1003,14 +1001,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jantatham/todolist/Controller.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jantatham/todolist/datamodel/TodoData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="61" column="55" lean-forward="false" selection-start-line="61" selection-start-column="55" selection-end-line="61" selection-end-column="55" />
+        <state relative-caret-position="372">
+          <caret line="81" column="17" lean-forward="true" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1942#2759#0" expanded="true" />
-            <element signature="e#2758#2759#0" expanded="true" />
+            <element signature="e#964#965#0" expanded="true" />
+            <element signature="e#999#1000#0" expanded="true" />
+            <element signature="e#2572#2573#0" expanded="true" />
+            <element signature="e#2610#2611#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jantatham/todolist/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="93" column="13" lean-forward="false" selection-start-line="93" selection-start-column="13" selection-end-line="93" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2510#3327#0" expanded="true" />
+            <element signature="e#3326#3327#0" expanded="true" />
           </folding>
         </state>
       </provider>
